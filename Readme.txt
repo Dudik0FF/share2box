@@ -18,7 +18,7 @@ sudo apt -y install unzip
 
 3.
 # Copy Files to Server
-wget https://github.com/DRM-Panel/share2box/raw/master/share2box-drm.zip
+wget https://raw.githubusercontent.com/DRM-Panel/share2box/main/share2box-drm.zip
 unzip /root/share2box-drm.zip -d /opt/share2box-drm
 
 4.
